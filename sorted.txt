@@ -1,0 +1,114 @@
+Here is your organized grocery list by common categories found in a grocery store:
+
+**Beverages:**
+
+* Almond milk
+* Apple juice
+* Apple cider vinegar
+* Bottled water
+* Coffee
+* Juice boxes
+* Orange juice
+* Soda
+* Wine
+
+**Dairy/Eggs:**
+
+* American cheese
+* Butter
+* Cheese sticks
+* Cream
+* Cream cheese
+* Eggs
+* Milk
+* Yogurt
+
+**Meat/Seafood:**
+
+* Bacon
+* Breakfast sausage
+* Chicken breasts
+* Ground Beef
+* Ham
+* Hot dogs
+* Salmon
+* Sausage
+
+**Produce:**
+
+* Apples
+* Asparagus
+* Avocados
+* Baby carrots
+* Bell peppers
+* Berries
+* Broccoli
+* Cabbage
+* Carrots
+* Cauliflower
+* Celery
+* Cucumber
+* Garlic
+* Grapes
+* Lemons
+* Lettuce
+* Limes
+* Mangoes
+* Mushrooms
+* Onions
+* Potatoes
+* Spinach
+* Strawberries
+* Sweet potatoes
+* Tomatoes
+* Watermelon
+* White onions
+* Zucchini
+
+**Canned Goods:**
+
+* Canned tuna
+* Black Beans
+* Corn
+* Ruffles (potato chips)
+
+**Pantry:**
+
+* Angel hair pasta
+* Bagels
+* Baking powder
+* Baking soda
+* Bisquick
+* Brown sugar
+* Cocoa powder
+* Flour
+* Oatmeal
+* Pancakes
+* Pasta
+* Peanut butter
+* Rice
+* Sugar
+
+**Snacks:**
+
+* Chips
+* Crackers
+* Cookies (not listed, but assumed to be included)
+* Fruit
+* Granola (not listed, but assumed to be included)
+* Ruffles (potato chips)
+
+**Miscellaneous:**
+
+* Bar soap
+* Cilantro
+* Honey Nut Cheerios
+* Ketchup
+* Mac and cheese
+* Mustard
+* Pizza
+* Salad
+* Salsa
+* Sour cream
+* Spaghetti
+* Tortilla chips
