@@ -1,6 +1,10 @@
 # Developing with Llama 3: Meta's Innovative and Open Large Language Model
 This is the repository for the LinkedIn Learning course `Developing with Llama 3: Meta's Innovative and Open Large Language Model`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+In this course we take a look at Llama 3, Meta's innovative and open large language model (LLM). You'll learn the advantages that Llama 3 offers over other LLMs and how its open source license is different from other traditional licenses. We'll look at how well the model works through Meta's official Meta.ai platforms and how developers can access and use the API in order to integrate Llama 3 into their AI development projects.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -19,12 +23,6 @@ To resolve this issue:
 	
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
