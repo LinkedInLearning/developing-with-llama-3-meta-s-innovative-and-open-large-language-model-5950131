@@ -16,6 +16,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/developing-with-llama-3-meta-s-innovative-and-open-large-language-model
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGoD3uo8kFD_g/learning-public-crop_675_1200/0/1718730672636?e=2147483647&v=beta&t=PwZ5Ux3MnOJ64jMSH12E0XrjZTpfOTMB_A35W-A06g4
 
